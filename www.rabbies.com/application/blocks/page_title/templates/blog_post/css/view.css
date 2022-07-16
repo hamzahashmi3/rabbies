@@ -1,0 +1,19 @@
+.author-info .av-image{
+	margin-right:20px;
+}
+.author-info{
+	font-family:'Open Sans', sans-serif;
+	font-size:1.125em;	
+	color:#6d6d6d;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-top:1px solid #DEDEDE;
+	border-bottom:1px solid #DEDEDE;
+	margin-bottom:15px;
+}
+.blog-share{
+	margin-bottom:35px;	
+}
+a.at-icon-wrapper {
+    background-color: #03A87C !important;
+}

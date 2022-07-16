@@ -1,0 +1,88 @@
+div.hpsearch {
+	font-family:'Open Sans', sans-serif;
+	margin: auto;
+	width: 50%;
+}
+div.hpsearch select{
+	background-color:#fff;
+}
+#wrap div.hpsearch .label-box {
+	margin-top: 0;
+	margin-bottom:0;
+}
+#wrap div.hpsearch .label-box label {
+	padding: 0;
+	font-size: 13px;
+	font-family:'Open Sans', sans-serif;
+}
+#wrap div.hpsearch .label-box  {
+	width:100%;
+}
+#wrap div.hpsearch .label-box select {
+	margin-top: 0;
+	padding: 0 5px;
+}
+#wrap div.hpsearch #deppoint {
+	min-height: 50px;
+}
+div.hpsearch h2 {
+	color: #fff;
+	font-size: 1.2em;
+}
+div.hpsearch div.row {
+	padding: 10px 15px;
+	background-color: rgba(255,255,255,0.70);
+}
+#wrap div.hpsearch div.row button {
+	margin: 0;
+	padding: 1px 0;
+	width: 100%;
+}
+#wrap div.hpsearch div.row button:hover .icon-search {
+	color: #333333;
+}
+div.hpsearch div.row input[type="text"] {
+	font-size: 16px;
+	line-height: 20px;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+img.bus-icon{
+	float:left;	
+	margin-right:10px;
+}
+@media (max-width: 767px) {
+div.hpsearch {
+	width:89%;
+	margin-bottom:15px;
+}
+.hp-box{
+	margin-top: 15px;
+}
+}
+@media (min-width:768px){
+#wrap div.hpsearch button {
+	height:50px;
+}	
+}
+@media (min-width: 768px) and (max-width:991px){
+	div.hpsearch{
+		width:89%;
+		margin-bottom: 20px;
+		margin-top: 70px;
+	}
+}
+@media (min-width: 992px) {
+div.hpsearch {
+	margin-bottom: 31px;
+	margin-top: 220px;
+	min-width:610px;
+}
+}
+@media (min-width: 1200px) {
+div.hpsearch {
+	margin-bottom: 31px;
+	margin-top: 220px;
+}
+}

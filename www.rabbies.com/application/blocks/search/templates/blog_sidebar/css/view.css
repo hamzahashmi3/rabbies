@@ -1,0 +1,38 @@
+#wrap .blog-sidebar{
+	padding:35px 10px 10px 20px;
+}
+#wrap .blog-sidebar input[type="text"]{
+	width:75%;
+	display:inline-block;
+	margin:0;
+	-webkit-border-radius: 0; 
+    -moz-border-radius:0;
+    border-radius:0; 
+	height:50px;
+	font-family:'Open Sans', sans-serif;
+	font-size:20px;
+	background-color:#DFDFDF;
+}
+#wrap .blog-sidebar .btn{
+	font-family:'Open Sans', sans-serif;
+	width:24%;	
+	display:inline-block;
+	margin:0;
+	position:absolute;
+	right:0;
+    height: 50px;
+	
+}
+.blog-side-bg{
+	height:50px;
+	background-color:#DFDFDF;
+}
+@media (max-width:767px){
+#wrap .blog-sidebar{
+	padding:0;
+}
+div.blog-list-sidebar {
+    padding-left: initial; 
+ 
+}
+}

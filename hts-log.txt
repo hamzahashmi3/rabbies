@@ -23,3 +23,23 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 13:56:43	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/europe-tours/south-west-explorer-13-day-tour (from https://www.rabbies.com/en/europe-tours/passions-spain-13-day-tour)
 13:56:43	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/europe-tours/flavours-france-florence-tuscany-13-day-tour (from https://www.rabbies.com/en/europe-tours/best-northern-italy-starts-rome-13-day-tour)
 13:57:03	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/manifest.json (from https://www.rabbies.com/en/blog)
+15:46:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.rabbies.com/application/files/6015/6984/2992/brochures_thumbs2.jpg (from https://www.rabbies.com/en/info/about-us/our-brochures)
+15:46:38	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.rabbies.com/application/files/3015/6984/5260/brochures_thumbs11.jpg (from https://www.rabbies.com/en/info/about-us/our-brochures)
+15:53:13	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.rabbies.com/cn/scotland-tours/from-inverness/1-3-day-tours/skye-eilean-donan-castle-day-tour (from https://www.rabbies.com/cn/scotland-tours/from-edinburgh/day-tours/loch-ness-glencoe-highlands-day-tour)
+15:55:34	Error: 	"Not Found" (404) at link https://www.rabbies.com/concrete/js/jquery-confim.min.js (from https://www.rabbies.com/basket)
+15:55:34	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/blog/manifest.json (from https://www.rabbies.com/en/blog/blog-results)
+15:55:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.rabbies.com/application/files/1314/8974/8061/Fungi_Dingle_800_X_420.jpg (from https://www.rabbies.com/en/blog/beaches-wellingtons-and-star-wars-my-trip-dingle)
+15:55:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.rabbies.com/application/files/1814/8974/8062/Minard_Castle_800_X_420.jpg (from https://www.rabbies.com/en/blog/beaches-wellingtons-and-star-wars-my-trip-dingle)
+15:55:34	Warning: 	Retry after error -4 (Incorrect length (65536 Bytes, 115607 expected)) at link https://www.rabbies.com/application/files/3814/9020/1389/Brenna_Holeman_Peru_resize.jpg (from https://www.rabbies.com/en/blog/8-fantastic-travel-writers-help-you-plan-your-perfect-trip)
+15:55:34	Warning: 	Retry after error -4 (Incorrect length (65536 Bytes, 98183 expected)) at link https://www.rabbies.com/application/files/6814/9020/1389/Emily_Luxton_resize.jpg (from https://www.rabbies.com/en/blog/8-fantastic-travel-writers-help-you-plan-your-perfect-trip)
+15:55:35	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.rabbies.com/application/files/2114/9020/2673/Watch_me_see_resize.jpg (from https://www.rabbies.com/en/blog/8-fantastic-travel-writers-help-you-plan-your-perfect-trip)
+15:55:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.rabbies.com/application/files/3716/4854/6043/Oxford_header_1920_x584.jpg (from https://www.rabbies.com/en/blog/why-oxford-so-famous)
+15:55:37	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.rabbies.com/application/files/1714/9088/5261/CHRIST_CHURCH_HALL_800_X_420.jpg (from https://www.rabbies.com/en/blog/why-oxford-so-famous)
+15:55:37	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.rabbies.com/application/files/3014/9181/5356/header_image.jpg (from https://www.rabbies.com/en/blog/10-reasons-why-britain-should-be-your-2017-travel-goal)
+15:55:40	Warning: 	Moved Permanently for https://www.rabbies.com/en/europe-tours/
+15:55:40	Warning: 	File has moved from https://www.rabbies.com/en/europe-tours/ to https://www.rabbies.com/en/europe-tours
+15:55:48	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/blog/4-locations-ireland-you-need-to-visit-on-st-patricks-day (from https://www.rabbies.com/en/blog/20-uk-ireland-destinations-you-should-visit-2020)
+16:01:39	Error: 	"Not Found" (404) at link https://www.rabbies.com/en/england-tours/see/isle-of-wight-tours-from-london (from https://www.rabbies.com/en/england-tours/see/isle-of-wight-tours)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 40 minutes 5 seconds : 2516 links scanned, 2486 files written (353984565 bytes overall) [317395014 bytes received at 33044 bytes/sec], 47018323 bytes transferred using HTTP compression in 559 files, ratio 19%, 1.9 requests per connection
+(16 errors, 18 warnings, 0 messages)

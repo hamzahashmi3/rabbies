@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rabbies.com	TRUE	/	FALSE	1999999999	CONCRETE5	78f81d3ac611e95ef0aacfed3634c8e2
+

@@ -1,0 +1,11 @@
+div.blog-list-sidebar{
+	padding-left:20px;	
+	font-family:'Open Sans', sans-serif;
+}
+div.blog-list-sidebar a{
+	text-decoration:none;	
+}
+img.bs-thumb{
+	margin-top: 5px;
+    margin-right: 10px;	
+}

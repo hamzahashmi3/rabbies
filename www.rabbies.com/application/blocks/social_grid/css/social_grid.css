@@ -1,0 +1,67 @@
+.ig-cont {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding-left: 2px !important;
+	padding-right: 2px !important;
+}
+.instagram, .twitter, .hp-review {
+	min-height: 208px;
+	overflow:hidden;
+    transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+
+}
+.instagram a, .twitter a{
+	-webkit-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+
+}	
+.instagram{
+	background-size:cover;	
+}
+.inst-logo {
+	margin: auto;
+	padding-top: 80px;
+}
+.twit-logo {
+	margin: auto;
+	padding-top: 10px;
+}
+div.twitter {
+	padding: 10px;
+	background-color: #1E9FEF;
+	color: #fff;
+	font-size: .9em;
+}
+div.twitter a {
+	color: #00FEFB;
+	text-decoration: none;
+}
+a.inst-link {
+	min-height: 208px;
+	display: block;
+	width: 100%;
+}
+a.inst-link:hover {
+	background-color: rgba(0,0,0,0.45);
+}
+.hp-review {
+	background-image: url(../img/quote-bg.png);
+	background-color: #0E8E7E;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	padding: 10px;
+	color: #fff;
+	font-size: .9em;
+}
+.hp-review small{
+	margin-top:5px;
+	text-align:center;
+}
+@media (max-width:767px){
+	.ig-last{
+		display:none;
+	}
+}

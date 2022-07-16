@@ -1,0 +1,271 @@
+.date {
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+.available {
+    border: 1px solid green;
+}
+
+.na {
+    border: 1px solid red;
+}
+
+.departure-form {
+    margin-left: 15px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid #E0E0E0;
+    background-color: #fff;
+}
+
+.departure-form.booking-widget.pad-right {
+    z-index: 100 !important;
+}
+
+.pax, .trdate {
+    margin-top: 15px;
+}
+
+.dep {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+.departure-form label {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.select-box .datepicker, .select-box .tour-time {
+    background: #E7E7E7;
+    width: 100%;
+    border: none;
+}
+
+.ui-datepicker td .ui-state-hover {
+    background: #03A87C !important;
+    background-color: #03A87C !important;
+}
+
+.departure-form .bookbtn {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.grn {
+    color: #03A87C !important;
+}
+
+.booking-widget input, .booking-widget select {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.tt-load {
+    background-image: url(../img/ajax-loader.gif);
+}
+
+.fav {
+    width: 100%;
+}
+
+.fav-row {
+    border-top: 2px solid #E0E0E0;
+}
+
+.fav .icon-heart-o {
+    color: #03A87C;
+    font-size: 20px;
+}
+
+.fav:hover .icon-heart-o, .faved .icon-heart-o {
+    color: #fff;
+}
+
+.faved {
+    background-color: #03A87C !important;
+    color: #fff !important;
+
+}
+
+.fav-button {
+    color: #fff;
+    background-color: #03A87C;
+}
+
+.share {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.fav {
+    width: 100%;
+    min-width: initial !important;
+
+}
+
+#TourDate {
+    cursor: pointer;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+}
+
+.mobprice {
+    display: none;
+}
+
+#wrap .cm {
+    padding-top: 5px;
+    font-size: 70%;
+}
+
+#wrap label small {
+    font-size: 70%;
+}
+
+@media (max-width: 767px) {
+    .bookbtn-xs {
+        position: fixed;
+        bottom: 15px;
+        left: 50%;
+        margin-left: -64px;
+        z-index: 20;
+    }
+
+    #wrap .form {
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow-y: scroll;
+        width: 100%;
+        height: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: #fff;
+        z-index: 21;
+        padding-bottom: 15px;
+    }
+
+    .mobprice {
+        display: block;
+    }
+
+    #ui-datepicker-div {
+        top: 0 !important;
+        position: fixed !important;
+    }
+}
+
+a.toggle-close {
+    display: block;
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: #03A87C;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+}
+
+a.toggle-close:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a.toggle-close i {
+    font-size: 1.25em;
+}
+
+.frmerr {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.spinner {
+    font-size: 20px !important;
+    visibility: hidden;
+    position: absolute;
+}
+
+.bookbtn:hover .icon-update {
+    color: #000;
+}
+
+.bookbtn:disabled {
+    cursor: progress;
+}
+
+.bookbtn {
+    position: relative;
+}
+
+#loading {
+    background-color: #E7E7E7;
+    display: block;
+    width: 100%;
+    padding: 8px;
+}
+
+#loading i {
+    font-size: 20px;
+    left: 190px;
+    top: 12px;
+}
+
+#TourDate {
+    display: none;
+}
+
+.fa-spin {
+    -webkit-animation: fa-spin 2s infinite linear;
+    animation: fa-spin 2s infinite linear;
+}
+
+@-webkit-keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+.ageinfo {
+    display: inline;
+    cursor: pointer;
+    margin-left: 5px
+}
+
+.studentinfo {
+    display: inline;
+    cursor: pointer;
+    margin-left: 5px
+}
+
+.seniorinfo {
+    display: inline;
+    cursor: pointer;
+    margin-left: 5px
+}

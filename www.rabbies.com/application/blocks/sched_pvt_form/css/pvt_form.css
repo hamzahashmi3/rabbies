@@ -1,0 +1,60 @@
+.pvt-hide, .pvt-hide-acc {
+    display: none;
+}
+
+#wrap [type="radio"]:checked + label:after {
+    top: 16px !important;
+}
+
+#wrap [type=radio] + label:before {
+    top: 12px !important;
+}
+
+#wrap div.emerr [type=radio] + label:before {
+    border-color: #8A0103;
+}
+
+#wrap textarea.grey, #wrap textarea.emerr {
+    width: 100%;
+}
+
+#wrap textarea.grey {
+    background-color: #DFDFDF;
+
+}
+
+#wrap input.pax-select {
+    background-color: #DFDFDF;
+    padding-left: 30px;
+}
+
+#wrap input.emerr, #wrap textarea.emerr {
+    background-color: #f2dede;
+	margin-bottom:10px;
+}
+
+#wrap div.select-box {
+    border: 0 !important;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+
+}
+
+#wrap div.select-box i.fa-map-marker {
+    font-size: 28px;
+    left: 10px;
+    top: 10px;
+}
+
+#wrap div.select-box i.fa-calendar {
+    font-size: 22px;
+    left: 8px;
+    top: 11px;
+}
+#wrap h2.pvt-tour-title{
+	font-size:2em;	
+}
+#wrap input.grey, #wrap textarea.grey {
+	margin-bottom:10px;	
+}
