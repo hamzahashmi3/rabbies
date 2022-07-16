@@ -1,0 +1,11 @@
+#wrap .footer-nav{
+	float:right;
+	margin-top:25px;
+	
+}
+#wrap .footer-nav a{
+	text-align:right;
+	font-weight:normal;
+	text-decoration:none;
+	color:#fff;
+}

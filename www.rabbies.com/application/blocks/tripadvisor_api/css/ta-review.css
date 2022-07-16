@@ -1,0 +1,18 @@
+.ta-reviews blockquote {
+    background: transparent;
+    color: #03A87C;
+    font-size: 1.375em;
+    border: 0;
+    padding: 0 1.84211em;
+    position: relative;
+    margin: 0.39474em 0;
+    quotes:none;
+	text-align:center;
+}
+.ta-review{
+	text-align:center;	
+}
+.ta-5{
+	margin-top:20px;
+	margin-bottom:20px;
+}

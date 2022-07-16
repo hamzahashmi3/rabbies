@@ -1,0 +1,34 @@
+#wrap div.blog-search{
+	width:100%;
+	min-height:225px;	
+	background-image:url(../img/search-bg.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+#wrap .blog-search input[type="text"]{
+	width:75%;
+	display:inline-block;
+	margin:0;
+	-webkit-border-radius: 0; 
+    -moz-border-radius:0;
+    border-radius:0; 
+	height:50px;
+	font-family:'Open Sans', sans-serif;
+	font-size:20px;
+}
+#wrap .blog-search .btn{
+	width:24%;	
+	display:inline-block;
+	margin:0;
+	position:absolute;
+	right:0;
+    height: 50px;
+}
+.blog-search-bg{
+	height:50px;
+	background-color:#fff;	
+	margin-top:80px;
+}
+div.col-sm-12.blog-search{
+	padding-top:10px;	
+}

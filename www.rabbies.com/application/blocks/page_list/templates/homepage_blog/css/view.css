@@ -1,0 +1,27 @@
+.blog-links{
+	margin-top:60px;	
+	margin-bottom:60px;
+}
+.blog-links a{
+    color: #6C6C6C;
+    font-family:'Open Sans', sans-serif;
+    text-decoration: none;
+    font-size: 36px;
+	line-height:36px;
+}
+.blog-links .ccm-block-page-list-description{
+	margin-top:30px;	
+}
+.blog-links .ccm-block-page-list-page-entry-text{
+	padding-left:20px;	
+}
+.blog-links .col-sm-8{
+	border-right:1px solid #8E9BB0;
+}
+.blog-avatar{
+	margin-top:30px;	
+}
+.avatar{
+	float:left;
+	margin-right:20px;	
+}

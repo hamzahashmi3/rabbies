@@ -1,0 +1,30 @@
+.blog-list-wrapper ul{
+	list-style:none;
+	display:block;
+	width:100%;
+	text-align:center;
+	margin-top:5px;
+	margin-bottom:25px;
+	padding:0 !important;
+}
+.blog-list-wrapper ul li{
+	display:inline;	
+	font-family:'Open Sans', sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+	font-size:20px;
+}
+.blog-list-wrapper ul li a{
+color:#404040;
+text-decoration:none;
+}
+.blog-list-wrapper ul li a:hover{
+	color:#03A87C;	
+	text-decoration:underline;
+}
+@media (max-width:767px){
+.blog-list-wrapper ul li{
+	padding-left:10px;
+	padding-right:10px;
+}
+}

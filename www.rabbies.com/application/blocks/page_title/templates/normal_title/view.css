@@ -1,0 +1,27 @@
+#wrap h1.tour-title {
+	display:block;
+	width:90%;
+	font-weight:normal;
+	font-size:3em;
+	color:#fff;	
+	line-height:1em;
+	margin:50px auto;
+	
+
+}
+#wrap small.tour-title{
+	color:#fff;	
+	font-size:.5em;
+	
+
+}
+@media (min-width:992px){
+	#wrap h1.tour-title {
+	line-height:.8em;	
+	}
+}
+@media (max-width:767px){
+	#wrap h1.tour-title {
+		font-size:2.5em;
+	}
+}

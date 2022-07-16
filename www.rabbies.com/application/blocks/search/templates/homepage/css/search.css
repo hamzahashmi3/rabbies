@@ -1,0 +1,34 @@
+#search{
+	display:none;	
+background-color: #dfdfdf;
+}
+.fancybox-skin{
+	-webkit-border-radius:0 !important; 
+    -moz-border-radius:0 !important; 
+     border-radius: 0 !important; 
+}
+
+.fancybox-inner{
+	height:50px !important;
+
+}
+#search input[type="search"]{
+	background-color:#DFDFDF;
+	width:71%;
+	-webkit-border-radius: 0; 
+    -moz-border-radius:0;
+    border-radius:0; 
+}
+#search button{
+	display:inline-block;
+	margin:0;
+	width:28%;
+}
+#search input{
+	display:inline-block;	
+	margin:0;
+}
+
+#search input[type="search"]::-webkit-search-cancel-button {
+	-webkit-appearance: searchfield-cancel-button;
+}

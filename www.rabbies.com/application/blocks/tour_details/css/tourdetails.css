@@ -1,0 +1,77 @@
+.full-itin ul li:hover, .ui-accordion-header, .eng-itin ul li:hover {
+	cursor: pointer
+}
+.ui-state-focus, .ui-state-hover, .ui-widget-content .ui-state-focus, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-focus, .ui-widget-header .ui-state-hover {
+	color: #333;
+	background: 0 0;
+	border: none;
+	text-decoration: none
+}
+.ui-accordion .ui-accordion-header {
+	border: none;
+	padding: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	margin-bottom: 0
+}
+#wrap div.ui-accordion-content {
+	border-top: 1px solid #03A87C!important
+}
+#wrap div.ui-widget-content, .ui-accordion-content, .ui-accordion-content-active, .ui-corner-bottom, .ui-helper-reset, .ui-widget-content {
+	border: none
+}
+.ui-icon, .ui-state-active .ui-icon, .ui-state-default .ui-icon {
+	background: 0 0!important
+}
+.ui-widget {
+	font-size: 1em!important
+}
+#wrap div.details-title {
+	font-weight: 700
+}
+#wrap div.tour-details .row {
+	border-bottom: 1px solid #DFDFDF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 1em
+}
+div.review {
+	border-bottom: 1px solid #DFDFDF;
+	padding-bottom: 20px
+}
+.mrgbtm {
+	margin-bottom: 15px;
+	display: block
+}
+.details-content ul, .full-itin ul {
+	color: #6d6d6d
+}
+#wrap .ui-accordion-header{cursor:pointer}#wrap .accordion.default .ui-accordion-header{background-color:#E7E7E7;padding:10px 20px;color:#6d6d6d;position:relative}#wrap .accordion.default .ui-accordion-header:after{content:"\e911";font-family:"icomoon";padding:3px;position:absolute;right:11px;font-size:12px;top:6px;background:#ffffff;color:#03A87C;border-radius:50%;border:3px solid #03A87C;font-weight:bold}#wrap .accordion.default .ui-accordion-header-active:after{content:"\e90d"}#wrap .accordion.content .ui-accordion-header{border-top:1px solid #03A87C;padding:15px 20px 15px 40px;color:#03A87C;position:relative}#wrap .accordion.content .ui-accordion-header:after{content:"\e911";font-family:"icomoon";position:absolute;left:11px;font-size:17px;top:19px;color:#03A87C;font-weight:bold}#wrap .accordion.content .ui-accordion-header-active:after{content:"\e90d"}#wrap .ui-accordion-content{padding:10px 20px}
+.full-itin ul.pages, .eng-itin ul.pages {
+	padding: 0
+}
+.full-itin ul.pages li, .eng-itin ul.pages li {
+	font-family: 'Open Sans', sans-serif;
+	display: inline-block;
+	padding: 5px;
+	width: 50px;
+	margin-left: 2px;
+	text-align: center;
+	margin-right: 2px;
+	border: 1px solid #03A87C;
+	font-size: 16px
+}
+.full-itin p, .eng-itin p {
+	clear: both
+}
+.details-content, details-content li {
+	color: #6d6d6d;
+}
+.full-itin ul.pages li.day-act, .full-itin ul.pages li:hover, .eng-itin ul.pages li.day-act, .eng-itin ul.pages li:hover {
+	background-color: #03A87C;
+	color: #fff
+}
+.pink-date{
+	color:#d970ab
+}

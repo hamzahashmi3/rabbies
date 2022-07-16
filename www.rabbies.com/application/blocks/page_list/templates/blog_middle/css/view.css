@@ -1,0 +1,30 @@
+.popular-thumb {
+	max-width: 205px;
+}
+.popular-posts .ccm-block-page-list-title a {
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+	color: #6d6d6d;
+	font-size: 20px;
+}
+.popular-posts .avatar {
+	float: left;
+}
+.popular-posts .blog-avatar {
+	color: #6d6d6d;
+	font-size: 12px;
+}
+.popular-posts .blog-avatar img {
+	width: 40px;
+	height: 40px;
+}
+.row-bm .col-sm-6 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.mthumb {
+	clear: both;
+}
+.avatar.opc {
+	margin-right: 10px;
+}
